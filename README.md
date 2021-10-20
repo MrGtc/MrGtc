@@ -24,6 +24,6 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niroxy&show_icons=true&include_all_commits=true&theme=radical" alt="Gtc github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrGtc&show_icons=true&include_all_commits=true&theme=radical" alt="Gtc github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGtc&layout=compact&theme=radical" />
 </p>
